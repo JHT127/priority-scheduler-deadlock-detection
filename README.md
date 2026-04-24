@@ -1,4 +1,4 @@
-# priority-scheduler-deadlock-detection
+# Priority Scheduler Deadlock Detection
 
 > CPU process scheduler with multi-level priority queues, Round Robin arbitration, IO burst handling, and wait-for graph deadlock detection — implemented from scratch in Python.
 
